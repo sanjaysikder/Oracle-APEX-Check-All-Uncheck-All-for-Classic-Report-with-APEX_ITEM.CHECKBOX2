@@ -1,7 +1,6 @@
 ## Oracle APEX: Check All/Uncheck All for Classic Report with APEX_ITEM.CHECKBOX2
-mplementation for Check All/Uncheck All in Oracle APEX
 
-In some cases, a user's password may be reset to a known default (e.g., 'Welcome123') or may have expired. To force these users to change their password immediately after login, follow these steps.
+This document provides a complete implementation guide for adding "Check All/Uncheck All" functionality to a classic report in Oracle APEX using APEX_ITEM.CHECKBOX2 and processing the selected items to insert into another table..
 
 ---
 
